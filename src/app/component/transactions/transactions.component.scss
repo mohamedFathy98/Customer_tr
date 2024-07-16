@@ -1,0 +1,18 @@
+
+select{
+    border-radius: 10px;
+    padding: 10px;
+  }
+  select:hover{
+    background-color: #E2DFD0;
+
+  }
+  option:hover{
+    color : #fff
+  }
+  table tbody tr {
+      cursor: pointer;
+    }
+   th:hover{
+     color: rgba(255, 0, 0, 0.379);
+    }
